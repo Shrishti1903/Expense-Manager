@@ -49,6 +49,6 @@ Calculate total	            Table filled	            Correct sum shown
 
 Author
 
-Vansh soni
-2301010059
+Shrishti Pathak
+2301010052
 K.R Mangalam University
